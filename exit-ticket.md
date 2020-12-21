@@ -1,4 +1,5 @@
-voila
+# Exit-Ticket
+-Archeron1148
 
 In this document I will examine how the course of my own thought about digital archaeology has transformed over this term by pulling from previous repositories. I will then analyse how our work with the graveyard project fits into some of the antagonisms of digital archaeology by visiting my greatest success and most glorious failure. Finally, I will give my last words (for this course at least) on digital archaeology, what it is, what it ought to be, and what my greatest takeaways from this course are.
 
@@ -6,7 +7,7 @@ Coming into this course, my idea of what digital archaeology was was quite simpl
 
 Having an idea of what digital archaeology is not (i.e. that it is not simply archaeology with digital tools), module two began to explore some of the structural issues affecting the discipline. Both archaeology and 'traditional' digital technology fields have historically been dominated by white men and so digital archaeology has nessesarily inherited this complication. The whiteness and maleness of this discipline is inherently problematic because, as [William White and Catherine Draycott](https://www.sapiens.org/archaeology/archaeology-diversity/) put it: "Unconscious bias means that white leadership, like male-only leadership, too often ends up replicating and reinforcing the status quo, however unintentionally." Moreso, many have the idea that the internet is a great global equalizer, but the truth is that underprivledged populations cannot always participate because of limited internet and tech access, so in practice it can reinforce colonial relationships. Other than demographic and political biases, so-called 'speed archaeology' can also have a negative affect on the validity of archaeological studies. Many think that the use of digital technology in archaeology means that everything can and should be done quicker, but not only is this often practically invalid (digital methods tend to take a lot of development time before they can be used and will sometimes 'break' in the field) it can also cause problems where archaeologists do not spend enough time analysing the artifacts or the data themselves. Within speed archaeology, the focus is on data collection first and everything else second. 
 
-The first two modules also went into some of what digital archaeology can be by talking about public archaeology and cyborg archaeology, and module three expanded this dialogue to talk more about the different ways digital technologies can be used to communicate history. 
+The first two modules also went into some of what digital archaeology can be by talking about public archaeology and cyborg archaeology. Module three expanded this dialogue by focusing on the different ways digital technologies can be used to communicate history. Public archaeology includes a full taxonomy of practices which vary in their level of openness and user engagement, but the common thread is 
 
 Great success
 
