@@ -4,11 +4,18 @@ In this document I will examine how the course of my own thought about digital a
 
 Coming into this course, my idea of what digital archaeology was was quite simplistic. Essentially, I thought of it as archaeology using digital tools but I quickly found it was much more complicated than this. Moving archaeology into the digital realm has forced us to reanalyse even the most basic techniques of the practice and has nessesitated the evaluation of an entirly new set of ethical and theoretical questions. For example: how does doing work digitally affect priveledge and whose voices are being heard? And how does the abstraction of artifact into data affect our further analyses? At the end of module one, I realized that digital work carries with it an immense amount of baggage and so there is no one-to-one conversion of archaeological processes into the digital.
 
+Having an idea of what digital archaeology is not (i.e. that it is not simply archaeology with digital tools), module two began to explore some of the structural issues affecting the discipline. Both archaeology and 'traditional' digital technology fields have historically been dominated by white men and so digital archaeology has nessesarily inherited this complication. The whiteness and maleness of this discipline is inherently problematic because, as [William White and Catherine Draycott](https://www.sapiens.org/archaeology/archaeology-diversity/) put it: "Unconscious bias means that white leadership, like male-only leadership, too often ends up replicating and reinforcing the status quo, however unintentionally." Moreso, many have the idea that the internet is a great global equalizer, but the truth is that underprivledged populations cannot always participate because of limited internet and tech access, so in practice it can reinforce colonial relationships. Other than demographic and political biases, so-called 'speed archaeology' can also have a negative affect on the validity of archaeological studies. Many think that the use of digital technology in archaeology means that everything can and should be done quicker, but not only is this often practically invalid (digital methods tend to take a lot of development time before they can be used and will sometimes 'break' in the field) it can also cause problems where archaeologists do not spend enough time analysing the artifacts or the data themselves. Within speed archaeology, the focus is on data collection first and everything else second. 
+
+The first two modules also went into some of what digital archaeology can be by talking about public archaeology and cyborg archaeology, and module three expanded this dialogue to talk more about the different ways digital technologies can be used to communicate history. 
+
 Great success
 
 Fail: collecting data week 2. Fetishization of data, technology – it always appears much simpler on the surface, its just putting in numbers how long could that take. Collaboration, learning from others’ failures on discord – perhaps I should have done more of this.
 
-Final remarks
+Final remarks.
+archaeology of the heart - graveyard project was not
+I still have much to learn but I am very glad to have been taken on this journey
+I argue for an A because I have dealt with all the learning goals.
 
 1. Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly (analytical ability, argumentation)
 2. Implement and contribute to a digital archaeology gravestones’ and monuments survey (methodology, collaboration, professionalization)
