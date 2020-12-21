@@ -1,8 +1,8 @@
 voila
 
-In this document I will examine how the course of my own thought about digital archaeology has transformed over this term with reference to previous repositories. I will then analyse how our work with the graveyard project fits into some of the antagonisms of digital archaeology by visiting my greatest success and most glorious failure. Finally, I will give my last words (for this course at least) on digital archaeology, what it is, what it ought to be, and what my greatest takeaways from this course are.
+In this document I will examine how the course of my own thought about digital archaeology has transformed over this term by pulling from previous repositories. I will then analyse how our work with the graveyard project fits into some of the antagonisms of digital archaeology by visiting my greatest success and most glorious failure. Finally, I will give my last words (for this course at least) on digital archaeology, what it is, what it ought to be, and what my greatest takeaways from this course are.
 
-Repositories
+Coming into this course, my idea of what digital archaeology was was quite simplistic. Essentially, I thought of it as archaeology using digital tools but I quickly found it was much more complicated than this. Moving archaeology into the digital realm has forced us to reanalyse even the most basic techniques of the practice and has nessesitated the evaluation of an entirly new set of ethical and theoretical questions. For example: how does doing work digitally affect priveledge and whose voices are being heard? And how does the abstraction of artifact into data affect our further analyses? At the end of module one, I realized that digital work carries with it an immense amount of baggage and so there is no one-to-one conversion of archaeological processes into the digital.
 
 Great success
 
