@@ -1,4 +1,4 @@
-# Exit-Ticket
+### Exit-Ticket
 -Archeron1148
 
 In this document I will examine how the course of my own thought about digital archaeology has transformed over this term by pulling from previous repositories. I will then analyse how our work with the graveyard project fits into some of the antagonisms of digital archaeology by visiting my greatest success and most glorious failure. Finally, I will give my last words (for this course at least) on digital archaeology, what it is, what it ought to be, and what my greatest takeaways from this course are.
